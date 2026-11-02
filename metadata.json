@@ -1,0 +1,6 @@
+{
+  "name": "Rolex Fast Auto",
+  "description": "Rolex Fast Auto - Carrom Pool companion with separate Admin and AutoPlay licensing, customer payments, carrom simulator, and floating controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
